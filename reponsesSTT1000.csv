@@ -1,0 +1,61 @@
+date,transport,sexe,stt1000,prob1,noteProb1,taille
+30/01/2017 14:21:43,"En transports en commun (bus, métro, train)",Femme,3,1,35,66.5
+30/01/2017 15:01:48,"Autre (voiture, taxi, patins, ...)",Homme,3,3,49,67
+30/01/2017 15:09:18,"En transports en commun (bus, métro, train)",Homme,2,4,42,66
+30/01/2017 16:20:14,"En transports en commun (bus, métro, train)",Homme,1,1,55,70
+30/01/2017 16:30:18,"En transports en commun (bus, métro, train)",Femme,4,7,65.7,66
+30/01/2017 16:41:40,"En transports en commun (bus, métro, train)",Homme,2,6,50,68.5
+30/01/2017 16:53:23,"En transports en commun (bus, métro, train)",Femme,4,4,38,66.14
+30/01/2017 16:53:44,"En transports en commun (bus, métro, train)",Homme,5,4,39.5,69.6
+30/01/2017 17:03:36,"En transports en commun (bus, métro, train)",Femme,4,3,52,67.32
+30/01/2017 17:22:23,"En transports en commun (bus, métro, train)",Homme,1,2,70.0,66.0
+30/01/2017 17:27:07,"En transports en commun (bus, métro, train)",Homme,3,5,71,74
+30/01/2017 17:58:56,"En transports en commun (bus, métro, train)",Femme,8,10,85.5,64.8
+30/01/2017 18:05:01,"En transports en commun (bus, métro, train)",Femme,8,10,59,64.2
+30/01/2017 18:10:50,"En transports en commun (bus, métro, train)",Homme,6,3,69.4,66.9
+30/01/2017 19:09:22,"En transports en commun (bus, métro, train)",Homme,2,3,71.5,69.5
+30/01/2017 19:43:11,"En transports en commun (bus, métro, train)",Homme,6,9,75,60.8
+30/01/2017 20:28:19,"En transports en commun (bus, métro, train)",Homme,9,9,55,76.8
+30/01/2017 22:28:55,"En transports en commun (bus, métro, train)",Femme,3,5,50.0,67.0
+31/01/2017 00:24:54,"En transports en commun (bus, métro, train)",Homme,3,4,58,72
+31/01/2017 08:04:46,"Autre (voiture, taxi, patins, ...)",Homme,5,5,50,66
+31/01/2017 10:27:37,"Autre (voiture, taxi, patins, ...)",Homme,4,5,63,68.9
+31/01/2017 10:29:25,"En transports en commun (bus, métro, train)",Homme,3,2,80.5,72.0
+31/01/2017 11:15:38,"En transports en commun (bus, métro, train)",Femme,6,10,52.5,66
+31/01/2017 11:19:40,A pied,Femme,2,2,69,64
+31/01/2017 12:19:26,"En transports en commun (bus, métro, train)",Homme,3,7,70.5,72
+31/01/2017 12:25:37,"En transports en commun (bus, métro, train)",Femme,2,3,46.00,66.15
+31/01/2017 12:57:11,"En transports en commun (bus, métro, train)",Homme,4,10,65,72
+31/01/2017 12:59:33,"En transports en commun (bus, métro, train)",Femme,2,5,55.0,63.0
+31/01/2017 16:17:30,"En transports en commun (bus, métro, train)",Femme,6,6,49,68
+31/01/2017 17:03:27,"En transports en commun (bus, métro, train)",Femme,3,4,69,63
+31/01/2017 17:25:01,"En transports en commun (bus, métro, train)",Femme,2,8,51,62
+31/01/2017 19:05:47,"En transports en commun (bus, métro, train)",Homme,5,5,64,66.7
+31/01/2017 20:04:29,"En transports en commun (bus, métro, train)",Homme,5,4,60,65.7
+31/01/2017 20:08:41,"En transports en commun (bus, métro, train)",Homme,2,5,40,58
+31/01/2017 20:20:37,"En transports en commun (bus, métro, train)",Femme,3,10,33,63
+31/01/2017 22:04:46,"En transports en commun (bus, métro, train)",Femme,8,8,68.1,76.72
+31/01/2017 22:13:41,"En transports en commun (bus, métro, train)",Femme,1,2,53,65
+01/02/2017 08:01:19,"En transports en commun (bus, métro, train)",Homme,2,3,23,65.8
+01/02/2017 08:57:44,"En transports en commun (bus, métro, train)",Femme,3,4,34.5,67.0
+01/02/2017 09:39:57,A pied,Homme,6,6,65,73
+01/02/2017 11:02:47,A pied,Homme,2,2,63.0,69
+01/02/2017 11:39:19,"En transports en commun (bus, métro, train)",Femme,2,2,37.6,69
+01/02/2017 12:15:37,"En transports en commun (bus, métro, train)",Homme,4,4,36,60
+01/02/2017 12:55:29,"En transports en commun (bus, métro, train)",Homme,2,4,45,75
+01/02/2017 12:58:57,"En transports en commun (bus, métro, train)",Homme,2,3,50,70
+01/02/2017 12:59:45,"En transports en commun (bus, métro, train)",Homme,2,4,41.5,72
+01/02/2017 14:15:19,"En transports en commun (bus, métro, train)",Femme,5,4,40,62.4
+01/02/2017 18:45:00,"En transports en commun (bus, métro, train)",Homme,3,4,70,73.3
+01/02/2017 19:34:26,A pied,Femme,6,6,40,66.9
+01/02/2017 20:13:16,"En transports en commun (bus, métro, train)",Homme,4,3,61.2,75
+01/02/2017 22:23:15,"En transports en commun (bus, métro, train)",Homme,3,6,56.0,68.1
+02/02/2017 07:13:54,"En transports en commun (bus, métro, train)",Homme,4,4,90,73
+02/02/2017 14:14:41,"En transports en commun (bus, métro, train)",Femme,2,8,70,71
+02/02/2017 17:27:53,"En transports en commun (bus, métro, train)",Femme,7,3,49,63
+02/02/2017 17:50:18,"En transports en commun (bus, métro, train)",Femme,5,3,75,66.9
+02/02/2017 21:24:31,"En transports en commun (bus, métro, train)",Femme,4,4,83.5,63.8
+03/02/2017 16:16:21,"En transports en commun (bus, métro, train)",Homme,8,10,58,70.8
+03/02/2017 16:17:10,"En transports en commun (bus, métro, train)",Homme,4,10,38,70.1
+03/02/2017 16:55:03,"En transports en commun (bus, métro, train)",Homme,8,10,76.5,66.93
+03/02/2017 17:14:29,"Autre (voiture, taxi, patins, ...)",Femme,3,2,64,66.0
